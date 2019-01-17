@@ -1,0 +1,195 @@
+
+.fl {
+	font-size: 30px;
+	color: black;
+	margin-top: 40px;
+}
+.navbar-right a{
+	color: black;
+}
+.btn1 {
+	border-radius: 30px;
+	margin-top: 9px;
+	width: 180px;
+	background-color: rgb(242, 125, 101);
+	color: white;
+}
+.btn1:hover {
+	background-color: rgb(93, 144, 226);
+	color: white;
+}
+.row1 {
+	 background: linear-gradient(to bottom right, #ff33cc 13%, #0066ff 58%);
+	 height: 100vh;
+}
+.navbar-header {
+	padding: 0;
+	margin: 0;
+}
+.section {
+	content: 'PORTFOLIO';
+	display: inline-block;
+	color: black;
+	opacity: 0.04;
+	font-weight: 700;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	font-size: 20rem;
+}
+
+.txt1 {
+	color: white;
+}
+.h1 {
+	font-size: 55px;
+}
+.txt1 {
+	margin-top: 180px;
+}
+.img1 {
+	margin-top: 180px;
+}
+.ubt {
+	color: rgb(140, 140, 140);
+	margin-top: 50px;
+}
+.txt2 {
+	color: black;
+	margin-bottom: 30px;
+	font-size: 38px;
+	font-weight: bold;
+}
+.fas {
+	color: rgb(234, 127, 89);
+}
+.txt3 {
+	color: rgb(140, 140, 140);
+	margin-bottom: 80px;
+}
+ hr {
+ 	
+ 	border:2px solid rgb(234, 127, 89);
+ 	width: 100px;
+ }
+.row2 div {
+	margin-top:50px; 
+}
+.row2 div i {
+	margin-top: 12px;
+}
+.hvr:hover {
+	background: linear-gradient(to bottom right, #ff33cc 13%, #0066ff 58%);
+
+}
+
+.hvr:hover i, .hvr:hover h2, .hvr:hover p {
+	color: white;
+}
+.hvr:hover hr {
+	border-color: white;
+}
+.hvr {
+	cursor: pointer;
+}
+
+.no-padding {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.hoverable {
+    display: none;
+}
+
+.hover1:hover .hoverable1,
+.hover2:hover .hoverable2,
+.hover3:hover .hoverable3,
+.hover4:hover .hoverable4,
+.hover5:hover .hoverable5,
+.hover6:hover .hoverable6,
+.hover7:hover .hoverable7,
+.hover8:hover .hoverable8 {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(255, 255, 255, 0.9);
+    height: 100%;
+}
+
+.hover1 {
+    background-image: url(https://d19m59y37dris4.cloudfront.net/foliou/2-0-0/img/portfolio-1.jpg);
+    background-size: cover;
+    height: 337.250px;
+}
+
+.hover2 {
+    background-image: url(https://d19m59y37dris4.cloudfront.net/foliou/2-0-0/img/portfolio-2.jpg);
+    background-size: cover;
+    height: 337.250px;
+}
+
+.hover3 {
+    background-image: url(https://d19m59y37dris4.cloudfront.net/foliou/2-0-0/img/portfolio-3.jpg);
+    background-size: cover;
+    height: 337.250px;
+}
+
+.hover4 {
+    background-image: url(https://d19m59y37dris4.cloudfront.net/foliou/2-0-0/img/portfolio-4.jpg);
+    background-size: cover;
+    height: 337.250px;
+}
+
+.hover5 {
+    background-image: url(https://d19m59y37dris4.cloudfront.net/foliou/2-0-0/img/portfolio-5.jpg);
+    background-size: cover;
+    height: 337.250px;
+}
+
+.hover6 {
+    background-image: url(https://d19m59y37dris4.cloudfront.net/foliou/2-0-0/img/portfolio-6.jpg);
+    background-size: cover;
+    height: 337.250px;
+}
+
+.hover7 {
+    background-image: url(https://d19m59y37dris4.cloudfront.net/foliou/2-0-0/img/portfolio-7.jpg);
+    background-size: cover;
+    height: 337.250px;
+}
+
+.hover8 {
+    background-image: url(https://d19m59y37dris4.cloudfront.net/foliou/2-0-0/img/portfolio-8.jpg);
+    background-size: cover;
+    height: 337.250px;
+}
+
+.blah {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+}
+
+.height2 {
+    height: 60vh;
+    background-color: rgb(250, 249, 249);
+    position: relative;
+}
+
+.gib {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.gib2 {
+    position: absolute;
+    top: 150px;
+}
+
